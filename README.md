@@ -1,1 +1,1 @@
-# first_project
+# odin-links-and-images
